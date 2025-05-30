@@ -1,0 +1,62 @@
+{
+  "enabled": true,
+  "categoryId": "1375250663730184294",
+  "channelId": "1375251017142239343",
+  "supportRoles": [
+    "1206949758938124329"
+  ],
+  "embed": {
+    "title": "Create a Ticket",
+    "description": "Click the button below to create a support ticket",
+    "color": "#f206db",
+    "image": "https://thumbs.dreamstime.com/b/smiling-african-american-guy-stretching-out-his-big-hand-holding-something-offering-help-begging-reaching-something-235890765.jpg"
+  },
+  "ticketTypes": [
+    {
+      "id": "general",
+      "name": "General Support",
+      "description": "General questions and concerns",
+      "emoji": "❓",
+      "questions": [
+        {
+          "label": "What is your issue?",
+          "placeholder": "Describe your problem...",
+          "required": true
+        },
+        {
+          "label": "Additional details",
+          "placeholder": "Any other information...",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "billing",
+      "name": "Billing",
+      "description": "General questions about billing",
+      "emoji": "💰",
+      "questions": [
+        {
+          "label": "What is your issue?",
+          "placeholder": "",
+          "required": true
+        },
+        {
+          "label": "Your order ID?",
+          "placeholder": "",
+          "required": true
+        },
+        {
+          "label": "Your email?",
+          "placeholder": "",
+          "required": true
+        },
+        {
+          "label": "Anything else?",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    }
+  ]
+}

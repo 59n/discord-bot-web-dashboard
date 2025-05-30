@@ -1,0 +1,18 @@
+{
+  "twoFactorEnabled": false,
+  "ipWhitelisting": false,
+  "sessionTimeout": 3600,
+  "passwordPolicy": {
+    "minLength": 4,
+    "requireUppercase": false,
+    "requireLowercase": false,
+    "requireNumbers": false,
+    "requireSpecialChars": false
+  },
+  "loginAttempts": {
+    "maxAttempts": 5,
+    "lockoutDuration": 900
+  },
+  "encryption": true,
+  "auditLogging": true
+}

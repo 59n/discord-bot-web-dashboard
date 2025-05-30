@@ -1,0 +1,13 @@
+{
+  "notifications": {
+    "rssFeeds": {},
+    "socialMedia": {},
+    "scheduledMessages": {},
+    "webhooks": {},
+    "customNotifications": {}
+  },
+  "cache": {
+    "feedCache": {},
+    "socialCache": {}
+  }
+}

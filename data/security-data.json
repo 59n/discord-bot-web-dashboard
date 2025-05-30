@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@example.com",
+      "password": "$2b$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "admin",
+      "isActive": true,
+      "createdAt": "2025-05-23T16:17:52.436Z",
+      "lastLogin": null,
+      "twoFactorEnabled": false
+    }
+  ],
+  "securitySettings": {
+    "maxLoginAttempts": 5,
+    "lockoutDuration": 900000,
+    "sessionTimeout": 3600,
+    "requireTwoFactor": false,
+    "allowedIPs": [],
+    "blockedIPs": []
+  },
+  "securityLogs": [],
+  "whitelistedIPs": [],
+  "activeSessions": [],
+  "lastSaved": "2025-05-23T16:17:56.266Z"
+}

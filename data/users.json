@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "email": "admin@localhost",
+    "password": "$2b$12$lhi3nJ.Y/VmJZBibwJqZeu5aq9SOSgLj56xmwRoZIZ01Ne7dLGAGa",
+    "role": "admin",
+    "twoFactorEnabled": false,
+    "twoFactorSecret": null,
+    "isActive": true,
+    "createdAt": "2025-05-23T00:45:16.679Z",
+    "lastLogin": "2025-05-30T10:09:19.832Z",
+    "tempTwoFactorSecret": "HZRDOKTGNU2SISKAPVJXI3LFPEYHMW2BJFKFQ2JPFFGEGV33GVZQ"
+  }
+]

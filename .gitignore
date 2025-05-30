@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Sensitive data files
+data/user-data.json
+data/guild-configs.json
+data/tickets.json
+data/analytics.json
+data/role-automation.json
+data/events.json
+
+# Keep structure files
+!data/.gitkeep
+!config/README.md
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Old backups
+discord-bot-controller old backup/
+
+# Logs
+*.log
+logs/

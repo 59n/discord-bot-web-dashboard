@@ -1,0 +1,68 @@
+{
+  "warnings": {
+    "226728188355674114": [
+      {
+        "id": "1748023438205",
+        "guildId": "1160603423385866381",
+        "userId": "226728188355674114",
+        "moderatorId": "1",
+        "reason": "retard",
+        "timestamp": "2025-05-23T18:03:58.206Z",
+        "active": true
+      }
+    ]
+  },
+  "punishments": {},
+  "moderationLogs": [
+    {
+      "id": "1748023438206",
+      "action": "warning",
+      "timestamp": "2025-05-23T18:03:58.206Z",
+      "targetId": "226728188355674114",
+      "moderatorId": "1",
+      "reason": "retard",
+      "warningId": "1748023438205"
+    }
+  ],
+  "autoModConfig": {
+    "enabled": true,
+    "spamProtection": {
+      "enabled": true,
+      "maxMessages": 5,
+      "timeWindow": 5000,
+      "punishment": "mute",
+      "duration": 300000
+    },
+    "profanityFilter": {
+      "enabled": true,
+      "words": [
+        "badword1",
+        "badword2"
+      ],
+      "punishment": "warn",
+      "deleteMessage": true
+    },
+    "linkProtection": {
+      "enabled": true,
+      "whitelist": [
+        "discord.gg",
+        "youtube.com",
+        "github.com"
+      ],
+      "punishment": "warn",
+      "deleteMessage": true
+    },
+    "antiRaid": {
+      "enabled": true,
+      "maxJoins": 10,
+      "timeWindow": 60000,
+      "action": "lockdown"
+    },
+    "capsProtection": {
+      "enabled": true,
+      "maxCapsPercentage": 70,
+      "minLength": 10,
+      "punishment": "warn"
+    }
+  }
+}

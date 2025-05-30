@@ -1,0 +1,32 @@
+{
+  "slash": {
+    "name": "slash",
+    "description": "just slash",
+    "response": "hello this is slash",
+    "embed": true,
+    "embedTitle": "",
+    "embedColor": "#f22dbe",
+    "embedImage": "",
+    "type": "slash",
+    "options": [],
+    "conditions": [],
+    "cooldown": 0,
+    "permissions": [],
+    "createdAt": "2025-05-22T21:15:21.884Z"
+  },
+  "testing": {
+    "name": "testing",
+    "description": "testing",
+    "response": "Hello {user}",
+    "embed": false,
+    "embedTitle": "",
+    "embedColor": "#5865f2",
+    "embedImage": "",
+    "type": "slash",
+    "options": [],
+    "conditions": [],
+    "cooldown": 0,
+    "permissions": [],
+    "createdAt": "2025-05-23T00:27:04.793Z"
+  }
+}

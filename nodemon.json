@@ -1,0 +1,14 @@
+{
+  "ignore": [
+    "data/",
+    "commands.json",
+    "command-stats.json", 
+    "slash-commands.json",
+    "client/",
+    "*.log"
+  ],
+  "ext": "js,mjs,json",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}

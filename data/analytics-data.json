@@ -1,0 +1,2515 @@
+{
+  "analytics": {
+    "serverGrowth": [
+      {
+        "date": "Sat May 17 2025",
+        "guildId": "1160603423385866381",
+        "netChange": 6,
+        "joins": 7,
+        "leaves": 0,
+        "timestamp": "2025-05-17T16:13:29.645Z"
+      },
+      {
+        "date": "Sun May 18 2025",
+        "guildId": "1160603423385866381",
+        "netChange": 6,
+        "joins": 5,
+        "leaves": 2,
+        "timestamp": "2025-05-18T16:13:29.645Z"
+      },
+      {
+        "date": "Mon May 19 2025",
+        "guildId": "1160603423385866381",
+        "netChange": 6,
+        "joins": 2,
+        "leaves": 2,
+        "timestamp": "2025-05-19T16:13:29.645Z"
+      },
+      {
+        "date": "Tue May 20 2025",
+        "guildId": "1160603423385866381",
+        "netChange": -1,
+        "joins": 1,
+        "leaves": 0,
+        "timestamp": "2025-05-20T16:13:29.645Z"
+      },
+      {
+        "date": "Wed May 21 2025",
+        "guildId": "1160603423385866381",
+        "netChange": -1,
+        "joins": 6,
+        "leaves": 4,
+        "timestamp": "2025-05-21T16:13:29.645Z"
+      },
+      {
+        "date": "Thu May 22 2025",
+        "guildId": "1160603423385866381",
+        "netChange": -3,
+        "joins": 1,
+        "leaves": 2,
+        "timestamp": "2025-05-22T16:13:29.645Z"
+      },
+      {
+        "date": "Fri May 23 2025",
+        "guildId": "1160603423385866381",
+        "netChange": 5,
+        "joins": 7,
+        "leaves": 2,
+        "timestamp": "2025-05-23T16:13:29.645Z"
+      }
+    ],
+    "messageActivity": [
+      {
+        "key": "Thu May 22 2025-19",
+        "date": "Thu May 22 2025",
+        "hour": 19,
+        "count": 13,
+        "timestamp": "2025-05-22T17:00:00.000Z"
+      },
+      {
+        "key": "Thu May 22 2025-20",
+        "date": "Thu May 22 2025",
+        "hour": 20,
+        "count": 32,
+        "timestamp": "2025-05-22T18:00:00.000Z"
+      },
+      {
+        "key": "Thu May 22 2025-21",
+        "date": "Thu May 22 2025",
+        "hour": 21,
+        "count": 31,
+        "timestamp": "2025-05-22T19:00:00.000Z"
+      },
+      {
+        "key": "Thu May 22 2025-22",
+        "date": "Thu May 22 2025",
+        "hour": 22,
+        "count": 54,
+        "timestamp": "2025-05-22T20:00:00.000Z"
+      },
+      {
+        "key": "Thu May 22 2025-23",
+        "date": "Thu May 22 2025",
+        "hour": 23,
+        "count": 25,
+        "timestamp": "2025-05-22T21:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-0",
+        "date": "Fri May 23 2025",
+        "hour": 0,
+        "count": 13,
+        "timestamp": "2025-05-22T22:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-1",
+        "date": "Fri May 23 2025",
+        "hour": 1,
+        "count": 32,
+        "timestamp": "2025-05-22T23:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-2",
+        "date": "Fri May 23 2025",
+        "hour": 2,
+        "count": 44,
+        "timestamp": "2025-05-23T00:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-3",
+        "date": "Fri May 23 2025",
+        "hour": 3,
+        "count": 43,
+        "timestamp": "2025-05-23T01:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-4",
+        "date": "Fri May 23 2025",
+        "hour": 4,
+        "count": 20,
+        "timestamp": "2025-05-23T02:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-5",
+        "date": "Fri May 23 2025",
+        "hour": 5,
+        "count": 52,
+        "timestamp": "2025-05-23T03:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-6",
+        "date": "Fri May 23 2025",
+        "hour": 6,
+        "count": 56,
+        "timestamp": "2025-05-23T04:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-7",
+        "date": "Fri May 23 2025",
+        "hour": 7,
+        "count": 53,
+        "timestamp": "2025-05-23T05:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-8",
+        "date": "Fri May 23 2025",
+        "hour": 8,
+        "count": 33,
+        "timestamp": "2025-05-23T06:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-9",
+        "date": "Fri May 23 2025",
+        "hour": 9,
+        "count": 30,
+        "timestamp": "2025-05-23T07:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-10",
+        "date": "Fri May 23 2025",
+        "hour": 10,
+        "count": 34,
+        "timestamp": "2025-05-23T08:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-11",
+        "date": "Fri May 23 2025",
+        "hour": 11,
+        "count": 19,
+        "timestamp": "2025-05-23T09:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-12",
+        "date": "Fri May 23 2025",
+        "hour": 12,
+        "count": 40,
+        "timestamp": "2025-05-23T10:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-13",
+        "date": "Fri May 23 2025",
+        "hour": 13,
+        "count": 47,
+        "timestamp": "2025-05-23T11:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-14",
+        "date": "Fri May 23 2025",
+        "hour": 14,
+        "count": 56,
+        "timestamp": "2025-05-23T12:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-15",
+        "date": "Fri May 23 2025",
+        "hour": 15,
+        "count": 41,
+        "timestamp": "2025-05-23T13:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-16",
+        "date": "Fri May 23 2025",
+        "hour": 16,
+        "count": 34,
+        "timestamp": "2025-05-23T14:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-17",
+        "date": "Fri May 23 2025",
+        "hour": 17,
+        "count": 59,
+        "timestamp": "2025-05-23T15:00:00.000Z"
+      },
+      {
+        "key": "Fri May 23 2025-18",
+        "date": "Fri May 23 2025",
+        "hour": 18,
+        "count": 54,
+        "timestamp": "2025-05-23T16:00:00.000Z"
+      }
+    ],
+    "channelActivity": {
+      "1245459380745539585": {
+        "channelId": "1245459380745539585",
+        "messageCount": 1150,
+        "uniqueUsers": [
+          "user1",
+          "user2",
+          "user3",
+          "user4",
+          "user5",
+          "user6",
+          "user7",
+          "user8",
+          "user9",
+          "user10",
+          "user11",
+          "user12",
+          "user13",
+          "user14",
+          "user15",
+          "user16",
+          "user17",
+          "user18",
+          "user19",
+          "user20",
+          "user21",
+          "user22",
+          "user23",
+          "user24",
+          "user25"
+        ],
+        "hourlyActivity": [
+          3,
+          11,
+          13,
+          6,
+          12,
+          16,
+          5,
+          7,
+          14,
+          4,
+          10,
+          10,
+          15,
+          6,
+          15,
+          3,
+          16,
+          15,
+          15,
+          1,
+          8,
+          17,
+          12,
+          2
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 51,
+          "Sun May 18 2025": 92,
+          "Mon May 19 2025": 134,
+          "Tue May 20 2025": 110,
+          "Wed May 21 2025": 125,
+          "Thu May 22 2025": 93,
+          "Fri May 23 2025": 102
+        }
+      },
+      "channel2": {
+        "channelId": "channel2",
+        "messageCount": 462,
+        "uniqueUsers": [
+          "user1",
+          "user2",
+          "user3",
+          "user4",
+          "user5",
+          "user6",
+          "user7",
+          "user8",
+          "user9",
+          "user10",
+          "user11",
+          "user12",
+          "user13",
+          "user14",
+          "user15",
+          "user16",
+          "user17",
+          "user18",
+          "user19"
+        ],
+        "hourlyActivity": [
+          12,
+          10,
+          8,
+          1,
+          9,
+          7,
+          12,
+          0,
+          9,
+          3,
+          7,
+          6,
+          9,
+          5,
+          8,
+          4,
+          12,
+          4,
+          0,
+          0,
+          8,
+          11,
+          2,
+          4
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 31,
+          "Sun May 18 2025": 22,
+          "Mon May 19 2025": 56,
+          "Tue May 20 2025": 53,
+          "Wed May 21 2025": 63,
+          "Thu May 22 2025": 42,
+          "Fri May 23 2025": 50
+        }
+      }
+    },
+    "userActivity": {
+      "user1": {
+        "userId": "user1",
+        "messageCount": 140,
+        "channelsUsed": [
+          "channel1"
+        ],
+        "hourlyActivity": [
+          9,
+          6,
+          1,
+          5,
+          1,
+          0,
+          6,
+          7,
+          8,
+          3,
+          9,
+          4,
+          3,
+          0,
+          7,
+          4,
+          4,
+          8,
+          4,
+          5,
+          0,
+          6,
+          8,
+          2
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 6,
+          "Sun May 18 2025": 24,
+          "Mon May 19 2025": 7,
+          "Tue May 20 2025": 8,
+          "Wed May 21 2025": 9,
+          "Thu May 22 2025": 18,
+          "Fri May 23 2025": 14
+        },
+        "firstSeen": "2025-05-11T08:09:52.494Z",
+        "lastSeen": "2025-05-22T22:53:02.890Z"
+      },
+      "user2": {
+        "userId": "user2",
+        "messageCount": 196,
+        "channelsUsed": [
+          "channel1",
+          "channel2"
+        ],
+        "hourlyActivity": [
+          2,
+          3,
+          2,
+          5,
+          4,
+          2,
+          1,
+          4,
+          2,
+          2,
+          3,
+          7,
+          3,
+          8,
+          8,
+          9,
+          1,
+          3,
+          6,
+          8,
+          7,
+          4,
+          6,
+          2
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 19,
+          "Sun May 18 2025": 16,
+          "Mon May 19 2025": 19,
+          "Tue May 20 2025": 24,
+          "Wed May 21 2025": 19,
+          "Thu May 22 2025": 24,
+          "Fri May 23 2025": 22
+        },
+        "firstSeen": "2025-05-04T02:36:49.783Z",
+        "lastSeen": "2025-05-22T17:34:20.851Z"
+      },
+      "user3": {
+        "userId": "user3",
+        "messageCount": 92,
+        "channelsUsed": [
+          "channel1",
+          "channel2"
+        ],
+        "hourlyActivity": [
+          3,
+          5,
+          8,
+          5,
+          0,
+          3,
+          9,
+          4,
+          5,
+          7,
+          4,
+          6,
+          4,
+          4,
+          4,
+          0,
+          5,
+          6,
+          0,
+          0,
+          0,
+          9,
+          7,
+          2
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 22,
+          "Sun May 18 2025": 19,
+          "Mon May 19 2025": 16,
+          "Tue May 20 2025": 17,
+          "Wed May 21 2025": 19,
+          "Thu May 22 2025": 20,
+          "Fri May 23 2025": 8
+        },
+        "firstSeen": "2025-05-02T22:12:24.223Z",
+        "lastSeen": "2025-05-22T17:50:02.501Z"
+      },
+      "user4": {
+        "userId": "user4",
+        "messageCount": 223,
+        "channelsUsed": [
+          "channel1",
+          "channel2",
+          "channel3"
+        ],
+        "hourlyActivity": [
+          7,
+          1,
+          9,
+          3,
+          4,
+          2,
+          9,
+          3,
+          6,
+          0,
+          1,
+          4,
+          2,
+          5,
+          8,
+          8,
+          3,
+          2,
+          3,
+          6,
+          8,
+          8,
+          9,
+          5
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 5,
+          "Sun May 18 2025": 22,
+          "Mon May 19 2025": 8,
+          "Tue May 20 2025": 5,
+          "Wed May 21 2025": 17,
+          "Thu May 22 2025": 15,
+          "Fri May 23 2025": 10
+        },
+        "firstSeen": "2025-05-12T14:43:28.287Z",
+        "lastSeen": "2025-05-23T03:59:13.693Z"
+      },
+      "user5": {
+        "userId": "user5",
+        "messageCount": 196,
+        "channelsUsed": [
+          "channel1",
+          "channel2"
+        ],
+        "hourlyActivity": [
+          3,
+          1,
+          6,
+          6,
+          4,
+          4,
+          4,
+          9,
+          2,
+          0,
+          5,
+          4,
+          1,
+          0,
+          5,
+          7,
+          9,
+          1,
+          9,
+          7,
+          8,
+          8,
+          5,
+          3
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 10,
+          "Sun May 18 2025": 9,
+          "Mon May 19 2025": 20,
+          "Tue May 20 2025": 16,
+          "Wed May 21 2025": 20,
+          "Thu May 22 2025": 7,
+          "Fri May 23 2025": 23
+        },
+        "firstSeen": "2025-05-23T10:31:39.179Z",
+        "lastSeen": "2025-05-22T18:49:58.680Z"
+      },
+      "user6": {
+        "userId": "user6",
+        "messageCount": 74,
+        "channelsUsed": [
+          "channel1"
+        ],
+        "hourlyActivity": [
+          2,
+          9,
+          5,
+          8,
+          4,
+          7,
+          0,
+          8,
+          2,
+          3,
+          6,
+          9,
+          1,
+          6,
+          3,
+          3,
+          1,
+          0,
+          9,
+          3,
+          2,
+          6,
+          1,
+          7
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 22,
+          "Sun May 18 2025": 6,
+          "Mon May 19 2025": 10,
+          "Tue May 20 2025": 6,
+          "Wed May 21 2025": 16,
+          "Thu May 22 2025": 20,
+          "Fri May 23 2025": 6
+        },
+        "firstSeen": "2025-04-24T14:04:27.141Z",
+        "lastSeen": "2025-05-22T17:08:18.671Z"
+      },
+      "user7": {
+        "userId": "user7",
+        "messageCount": 194,
+        "channelsUsed": [
+          "channel1",
+          "channel2"
+        ],
+        "hourlyActivity": [
+          7,
+          6,
+          6,
+          7,
+          1,
+          6,
+          1,
+          5,
+          8,
+          2,
+          3,
+          6,
+          8,
+          5,
+          6,
+          7,
+          7,
+          5,
+          8,
+          7,
+          1,
+          0,
+          8,
+          2
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 16,
+          "Sun May 18 2025": 11,
+          "Mon May 19 2025": 6,
+          "Tue May 20 2025": 14,
+          "Wed May 21 2025": 17,
+          "Thu May 22 2025": 6,
+          "Fri May 23 2025": 9
+        },
+        "firstSeen": "2025-05-18T23:01:55.470Z",
+        "lastSeen": "2025-05-22T21:52:57.732Z"
+      },
+      "user8": {
+        "userId": "user8",
+        "messageCount": 131,
+        "channelsUsed": [
+          "channel1"
+        ],
+        "hourlyActivity": [
+          6,
+          7,
+          9,
+          4,
+          4,
+          1,
+          6,
+          7,
+          0,
+          8,
+          2,
+          4,
+          3,
+          9,
+          3,
+          5,
+          7,
+          6,
+          6,
+          5,
+          9,
+          7,
+          3,
+          4
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 16,
+          "Sun May 18 2025": 5,
+          "Mon May 19 2025": 14,
+          "Tue May 20 2025": 7,
+          "Wed May 21 2025": 16,
+          "Thu May 22 2025": 18,
+          "Fri May 23 2025": 12
+        },
+        "firstSeen": "2025-05-03T20:05:04.926Z",
+        "lastSeen": "2025-05-23T12:05:53.929Z"
+      },
+      "user9": {
+        "userId": "user9",
+        "messageCount": 77,
+        "channelsUsed": [
+          "channel1",
+          "channel2",
+          "channel3"
+        ],
+        "hourlyActivity": [
+          2,
+          9,
+          6,
+          8,
+          4,
+          0,
+          1,
+          8,
+          9,
+          2,
+          1,
+          3,
+          5,
+          1,
+          2,
+          4,
+          4,
+          8,
+          5,
+          9,
+          3,
+          1,
+          8,
+          4
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 14,
+          "Sun May 18 2025": 20,
+          "Mon May 19 2025": 7,
+          "Tue May 20 2025": 10,
+          "Wed May 21 2025": 19,
+          "Thu May 22 2025": 17,
+          "Fri May 23 2025": 5
+        },
+        "firstSeen": "2025-05-04T19:51:17.111Z",
+        "lastSeen": "2025-05-22T17:45:28.016Z"
+      },
+      "user10": {
+        "userId": "user10",
+        "messageCount": 74,
+        "channelsUsed": [
+          "channel1",
+          "channel2"
+        ],
+        "hourlyActivity": [
+          4,
+          7,
+          3,
+          6,
+          9,
+          3,
+          2,
+          1,
+          7,
+          1,
+          2,
+          0,
+          6,
+          5,
+          3,
+          2,
+          3,
+          0,
+          4,
+          6,
+          5,
+          9,
+          8,
+          3
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 19,
+          "Sun May 18 2025": 13,
+          "Mon May 19 2025": 11,
+          "Tue May 20 2025": 10,
+          "Wed May 21 2025": 18,
+          "Thu May 22 2025": 9,
+          "Fri May 23 2025": 9
+        },
+        "firstSeen": "2025-05-12T15:52:24.206Z",
+        "lastSeen": "2025-05-22T22:32:01.054Z"
+      },
+      "user11": {
+        "userId": "user11",
+        "messageCount": 173,
+        "channelsUsed": [
+          "channel1"
+        ],
+        "hourlyActivity": [
+          5,
+          8,
+          1,
+          2,
+          8,
+          6,
+          3,
+          8,
+          6,
+          8,
+          5,
+          8,
+          7,
+          8,
+          4,
+          0,
+          5,
+          0,
+          7,
+          3,
+          7,
+          8,
+          7,
+          9
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 14,
+          "Sun May 18 2025": 10,
+          "Mon May 19 2025": 21,
+          "Tue May 20 2025": 10,
+          "Wed May 21 2025": 9,
+          "Thu May 22 2025": 13,
+          "Fri May 23 2025": 11
+        },
+        "firstSeen": "2025-05-19T09:29:00.592Z",
+        "lastSeen": "2025-05-23T09:23:27.903Z"
+      },
+      "user12": {
+        "userId": "user12",
+        "messageCount": 66,
+        "channelsUsed": [
+          "channel1",
+          "channel2",
+          "channel3"
+        ],
+        "hourlyActivity": [
+          7,
+          6,
+          8,
+          7,
+          2,
+          5,
+          5,
+          8,
+          5,
+          6,
+          8,
+          4,
+          1,
+          2,
+          4,
+          9,
+          1,
+          4,
+          5,
+          5,
+          4,
+          3,
+          4,
+          9
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 5,
+          "Sun May 18 2025": 23,
+          "Mon May 19 2025": 16,
+          "Tue May 20 2025": 11,
+          "Wed May 21 2025": 21,
+          "Thu May 22 2025": 13,
+          "Fri May 23 2025": 18
+        },
+        "firstSeen": "2025-05-05T10:22:50.325Z",
+        "lastSeen": "2025-05-22T21:17:34.679Z"
+      },
+      "user13": {
+        "userId": "user13",
+        "messageCount": 182,
+        "channelsUsed": [
+          "channel1"
+        ],
+        "hourlyActivity": [
+          3,
+          7,
+          3,
+          5,
+          3,
+          4,
+          2,
+          1,
+          7,
+          7,
+          5,
+          2,
+          1,
+          2,
+          9,
+          5,
+          7,
+          6,
+          4,
+          0,
+          9,
+          0,
+          1,
+          6
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 11,
+          "Sun May 18 2025": 18,
+          "Mon May 19 2025": 19,
+          "Tue May 20 2025": 18,
+          "Wed May 21 2025": 20,
+          "Thu May 22 2025": 20,
+          "Fri May 23 2025": 9
+        },
+        "firstSeen": "2025-05-05T14:01:29.114Z",
+        "lastSeen": "2025-05-22T19:22:14.985Z"
+      },
+      "user14": {
+        "userId": "user14",
+        "messageCount": 97,
+        "channelsUsed": [
+          "channel1",
+          "channel2",
+          "channel3"
+        ],
+        "hourlyActivity": [
+          3,
+          3,
+          1,
+          8,
+          2,
+          9,
+          0,
+          1,
+          4,
+          1,
+          5,
+          1,
+          4,
+          9,
+          0,
+          4,
+          7,
+          2,
+          8,
+          5,
+          7,
+          6,
+          1,
+          5
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 11,
+          "Sun May 18 2025": 17,
+          "Mon May 19 2025": 9,
+          "Tue May 20 2025": 16,
+          "Wed May 21 2025": 6,
+          "Thu May 22 2025": 18,
+          "Fri May 23 2025": 21
+        },
+        "firstSeen": "2025-05-09T18:51:12.373Z",
+        "lastSeen": "2025-05-22T23:55:41.632Z"
+      },
+      "user15": {
+        "userId": "user15",
+        "messageCount": 76,
+        "channelsUsed": [
+          "channel1"
+        ],
+        "hourlyActivity": [
+          1,
+          9,
+          8,
+          5,
+          1,
+          0,
+          4,
+          0,
+          0,
+          9,
+          1,
+          6,
+          6,
+          7,
+          9,
+          4,
+          5,
+          1,
+          2,
+          4,
+          2,
+          5,
+          4,
+          7
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 5,
+          "Sun May 18 2025": 14,
+          "Mon May 19 2025": 9,
+          "Tue May 20 2025": 7,
+          "Wed May 21 2025": 17,
+          "Thu May 22 2025": 11,
+          "Fri May 23 2025": 5
+        },
+        "firstSeen": "2025-05-20T05:41:06.390Z",
+        "lastSeen": "2025-05-23T09:28:22.545Z"
+      },
+      "user16": {
+        "userId": "user16",
+        "messageCount": 107,
+        "channelsUsed": [
+          "channel1"
+        ],
+        "hourlyActivity": [
+          7,
+          2,
+          2,
+          3,
+          9,
+          7,
+          6,
+          8,
+          3,
+          5,
+          2,
+          5,
+          2,
+          7,
+          4,
+          2,
+          2,
+          0,
+          2,
+          2,
+          6,
+          3,
+          2,
+          9
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 14,
+          "Sun May 18 2025": 10,
+          "Mon May 19 2025": 23,
+          "Tue May 20 2025": 15,
+          "Wed May 21 2025": 15,
+          "Thu May 22 2025": 12,
+          "Fri May 23 2025": 20
+        },
+        "firstSeen": "2025-05-15T02:06:30.968Z",
+        "lastSeen": "2025-05-23T11:29:31.778Z"
+      },
+      "user17": {
+        "userId": "user17",
+        "messageCount": 207,
+        "channelsUsed": [
+          "channel1"
+        ],
+        "hourlyActivity": [
+          6,
+          0,
+          6,
+          3,
+          8,
+          9,
+          6,
+          2,
+          7,
+          8,
+          4,
+          8,
+          6,
+          6,
+          9,
+          9,
+          5,
+          3,
+          2,
+          8,
+          5,
+          0,
+          3,
+          2
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 11,
+          "Sun May 18 2025": 24,
+          "Mon May 19 2025": 21,
+          "Tue May 20 2025": 12,
+          "Wed May 21 2025": 23,
+          "Thu May 22 2025": 8,
+          "Fri May 23 2025": 9
+        },
+        "firstSeen": "2025-04-25T00:10:17.300Z",
+        "lastSeen": "2025-05-22T17:34:00.100Z"
+      },
+      "user18": {
+        "userId": "user18",
+        "messageCount": 137,
+        "channelsUsed": [
+          "channel1"
+        ],
+        "hourlyActivity": [
+          1,
+          0,
+          6,
+          5,
+          2,
+          8,
+          9,
+          3,
+          9,
+          2,
+          9,
+          4,
+          4,
+          3,
+          5,
+          4,
+          0,
+          2,
+          0,
+          2,
+          5,
+          0,
+          9,
+          9
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 21,
+          "Sun May 18 2025": 19,
+          "Mon May 19 2025": 5,
+          "Tue May 20 2025": 8,
+          "Wed May 21 2025": 15,
+          "Thu May 22 2025": 15,
+          "Fri May 23 2025": 13
+        },
+        "firstSeen": "2025-05-09T22:07:58.428Z",
+        "lastSeen": "2025-05-23T00:55:04.090Z"
+      },
+      "user19": {
+        "userId": "user19",
+        "messageCount": 152,
+        "channelsUsed": [
+          "channel1",
+          "channel2",
+          "channel3"
+        ],
+        "hourlyActivity": [
+          2,
+          1,
+          7,
+          3,
+          1,
+          1,
+          7,
+          6,
+          0,
+          7,
+          5,
+          0,
+          9,
+          5,
+          9,
+          3,
+          5,
+          4,
+          1,
+          7,
+          9,
+          1,
+          5,
+          2
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 23,
+          "Sun May 18 2025": 9,
+          "Mon May 19 2025": 22,
+          "Tue May 20 2025": 23,
+          "Wed May 21 2025": 9,
+          "Thu May 22 2025": 24,
+          "Fri May 23 2025": 12
+        },
+        "firstSeen": "2025-05-02T17:02:16.873Z",
+        "lastSeen": "2025-05-23T03:48:21.664Z"
+      },
+      "user20": {
+        "userId": "user20",
+        "messageCount": 163,
+        "channelsUsed": [
+          "channel1",
+          "channel2",
+          "channel3"
+        ],
+        "hourlyActivity": [
+          2,
+          6,
+          2,
+          3,
+          2,
+          0,
+          0,
+          6,
+          9,
+          9,
+          6,
+          3,
+          8,
+          0,
+          9,
+          5,
+          5,
+          1,
+          9,
+          9,
+          1,
+          2,
+          1,
+          3
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 22,
+          "Sun May 18 2025": 15,
+          "Mon May 19 2025": 9,
+          "Tue May 20 2025": 20,
+          "Wed May 21 2025": 12,
+          "Thu May 22 2025": 11,
+          "Fri May 23 2025": 7
+        },
+        "firstSeen": "2025-05-01T14:07:35.474Z",
+        "lastSeen": "2025-05-23T14:52:23.564Z"
+      },
+      "user21": {
+        "userId": "user21",
+        "messageCount": 205,
+        "channelsUsed": [
+          "channel1",
+          "channel2"
+        ],
+        "hourlyActivity": [
+          4,
+          2,
+          7,
+          3,
+          1,
+          8,
+          7,
+          9,
+          5,
+          6,
+          0,
+          4,
+          3,
+          7,
+          6,
+          7,
+          5,
+          7,
+          2,
+          2,
+          2,
+          7,
+          0,
+          3
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 24,
+          "Sun May 18 2025": 6,
+          "Mon May 19 2025": 23,
+          "Tue May 20 2025": 15,
+          "Wed May 21 2025": 15,
+          "Thu May 22 2025": 17,
+          "Fri May 23 2025": 24
+        },
+        "firstSeen": "2025-04-28T00:01:35.466Z",
+        "lastSeen": "2025-05-22T21:45:14.215Z"
+      },
+      "user22": {
+        "userId": "user22",
+        "messageCount": 78,
+        "channelsUsed": [
+          "channel1"
+        ],
+        "hourlyActivity": [
+          2,
+          4,
+          8,
+          5,
+          7,
+          3,
+          1,
+          1,
+          8,
+          5,
+          1,
+          8,
+          2,
+          1,
+          6,
+          4,
+          5,
+          9,
+          1,
+          5,
+          5,
+          3,
+          8,
+          1
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 12,
+          "Sun May 18 2025": 20,
+          "Mon May 19 2025": 16,
+          "Tue May 20 2025": 15,
+          "Wed May 21 2025": 11,
+          "Thu May 22 2025": 22,
+          "Fri May 23 2025": 20
+        },
+        "firstSeen": "2025-05-21T17:21:15.181Z",
+        "lastSeen": "2025-05-23T13:22:34.479Z"
+      },
+      "user23": {
+        "userId": "user23",
+        "messageCount": 219,
+        "channelsUsed": [
+          "channel1",
+          "channel2",
+          "channel3"
+        ],
+        "hourlyActivity": [
+          8,
+          4,
+          1,
+          1,
+          9,
+          9,
+          1,
+          0,
+          5,
+          8,
+          5,
+          0,
+          7,
+          2,
+          2,
+          4,
+          5,
+          4,
+          0,
+          0,
+          3,
+          9,
+          0,
+          7
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 15,
+          "Sun May 18 2025": 15,
+          "Mon May 19 2025": 14,
+          "Tue May 20 2025": 20,
+          "Wed May 21 2025": 5,
+          "Thu May 22 2025": 11,
+          "Fri May 23 2025": 11
+        },
+        "firstSeen": "2025-05-02T22:24:56.785Z",
+        "lastSeen": "2025-05-23T06:33:48.723Z"
+      },
+      "user24": {
+        "userId": "user24",
+        "messageCount": 132,
+        "channelsUsed": [
+          "channel1",
+          "channel2",
+          "channel3"
+        ],
+        "hourlyActivity": [
+          6,
+          7,
+          9,
+          8,
+          6,
+          9,
+          5,
+          0,
+          2,
+          3,
+          4,
+          5,
+          0,
+          5,
+          9,
+          4,
+          6,
+          6,
+          5,
+          1,
+          3,
+          6,
+          4,
+          8
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 23,
+          "Sun May 18 2025": 13,
+          "Mon May 19 2025": 22,
+          "Tue May 20 2025": 17,
+          "Wed May 21 2025": 21,
+          "Thu May 22 2025": 13,
+          "Fri May 23 2025": 10
+        },
+        "firstSeen": "2025-04-28T15:32:36.481Z",
+        "lastSeen": "2025-05-22T19:19:24.754Z"
+      },
+      "user25": {
+        "userId": "user25",
+        "messageCount": 135,
+        "channelsUsed": [
+          "channel1",
+          "channel2",
+          "channel3"
+        ],
+        "hourlyActivity": [
+          0,
+          7,
+          0,
+          2,
+          9,
+          4,
+          7,
+          4,
+          3,
+          3,
+          4,
+          1,
+          2,
+          4,
+          5,
+          7,
+          3,
+          3,
+          9,
+          9,
+          7,
+          4,
+          1,
+          6
+        ],
+        "dailyActivity": {
+          "Sat May 17 2025": 19,
+          "Sun May 18 2025": 17,
+          "Mon May 19 2025": 5,
+          "Tue May 20 2025": 16,
+          "Wed May 21 2025": 16,
+          "Thu May 22 2025": 7,
+          "Fri May 23 2025": 18
+        },
+        "firstSeen": "2025-05-04T12:38:10.142Z",
+        "lastSeen": "2025-05-23T12:01:07.275Z"
+      }
+    },
+    "commandUsage": {
+      "ping": {
+        "commandName": "ping",
+        "totalUsage": 571,
+        "uniqueUsers": [
+          "user1",
+          "user2",
+          "user3",
+          "user4",
+          "user5",
+          "user6"
+        ],
+        "hourlyUsage": [
+          13,
+          17,
+          1,
+          18,
+          19,
+          10,
+          17,
+          3,
+          0,
+          4,
+          6,
+          3,
+          12,
+          18,
+          0,
+          19,
+          15,
+          17,
+          1,
+          18,
+          8,
+          15,
+          13,
+          17
+        ],
+        "dailyUsage": {
+          "Sat May 17 2025": 56,
+          "Sun May 18 2025": 42,
+          "Mon May 19 2025": 20,
+          "Tue May 20 2025": 26,
+          "Wed May 21 2025": 18,
+          "Thu May 22 2025": 41,
+          "Fri May 23 2025": 28
+        },
+        "recentUsage": []
+      },
+      "help": {
+        "commandName": "help",
+        "totalUsage": 585,
+        "uniqueUsers": [
+          "user1",
+          "user2",
+          "user3",
+          "user4",
+          "user5",
+          "user6",
+          "user7"
+        ],
+        "hourlyUsage": [
+          4,
+          4,
+          11,
+          0,
+          6,
+          7,
+          17,
+          10,
+          4,
+          19,
+          7,
+          3,
+          8,
+          17,
+          7,
+          1,
+          14,
+          4,
+          14,
+          14,
+          15,
+          12,
+          0,
+          17
+        ],
+        "dailyUsage": {
+          "Sat May 17 2025": 50,
+          "Sun May 18 2025": 39,
+          "Mon May 19 2025": 40,
+          "Tue May 20 2025": 24,
+          "Wed May 21 2025": 10,
+          "Thu May 22 2025": 20,
+          "Fri May 23 2025": 58
+        },
+        "recentUsage": []
+      },
+      "serverinfo": {
+        "commandName": "serverinfo",
+        "totalUsage": 260,
+        "uniqueUsers": [
+          "user1",
+          "user2",
+          "user3",
+          "user4",
+          "user5",
+          "user6",
+          "user7",
+          "user8",
+          "user9",
+          "user10",
+          "user11"
+        ],
+        "hourlyUsage": [
+          1,
+          12,
+          12,
+          3,
+          3,
+          4,
+          8,
+          0,
+          9,
+          9,
+          17,
+          9,
+          8,
+          4,
+          6,
+          5,
+          19,
+          12,
+          12,
+          5,
+          1,
+          9,
+          16,
+          16
+        ],
+        "dailyUsage": {
+          "Sat May 17 2025": 40,
+          "Sun May 18 2025": 53,
+          "Mon May 19 2025": 47,
+          "Tue May 20 2025": 40,
+          "Wed May 21 2025": 39,
+          "Thu May 22 2025": 25,
+          "Fri May 23 2025": 49
+        },
+        "recentUsage": []
+      },
+      "userinfo": {
+        "commandName": "userinfo",
+        "totalUsage": 353,
+        "uniqueUsers": [
+          "user1",
+          "user2",
+          "user3",
+          "user4",
+          "user5",
+          "user6",
+          "user7",
+          "user8",
+          "user9",
+          "user10",
+          "user11",
+          "user12",
+          "user13",
+          "user14"
+        ],
+        "hourlyUsage": [
+          7,
+          14,
+          11,
+          9,
+          15,
+          3,
+          11,
+          3,
+          14,
+          16,
+          16,
+          16,
+          12,
+          15,
+          0,
+          17,
+          6,
+          13,
+          17,
+          2,
+          3,
+          10,
+          10,
+          1
+        ],
+        "dailyUsage": {
+          "Sat May 17 2025": 48,
+          "Sun May 18 2025": 28,
+          "Mon May 19 2025": 36,
+          "Tue May 20 2025": 25,
+          "Wed May 21 2025": 55,
+          "Thu May 22 2025": 44,
+          "Fri May 23 2025": 10
+        },
+        "recentUsage": []
+      },
+      "roll": {
+        "commandName": "roll",
+        "totalUsage": 197,
+        "uniqueUsers": [
+          "user1",
+          "user2",
+          "user3",
+          "user4",
+          "user5",
+          "user6",
+          "user7",
+          "user8",
+          "user9"
+        ],
+        "hourlyUsage": [
+          1,
+          12,
+          4,
+          4,
+          0,
+          19,
+          5,
+          13,
+          13,
+          4,
+          0,
+          18,
+          16,
+          6,
+          3,
+          0,
+          4,
+          1,
+          9,
+          16,
+          11,
+          18,
+          13,
+          19
+        ],
+        "dailyUsage": {
+          "Sat May 17 2025": 31,
+          "Sun May 18 2025": 13,
+          "Mon May 19 2025": 50,
+          "Tue May 20 2025": 58,
+          "Wed May 21 2025": 43,
+          "Thu May 22 2025": 10,
+          "Fri May 23 2025": 10
+        },
+        "recentUsage": []
+      },
+      "echo": {
+        "commandName": "echo",
+        "totalUsage": 533,
+        "uniqueUsers": [
+          "user1",
+          "user2",
+          "user3",
+          "user4",
+          "user5",
+          "user6",
+          "user7",
+          "user8",
+          "user9",
+          "user10",
+          "user11",
+          "user12",
+          "user13",
+          "user14"
+        ],
+        "hourlyUsage": [
+          13,
+          18,
+          17,
+          8,
+          8,
+          9,
+          2,
+          9,
+          4,
+          0,
+          8,
+          12,
+          9,
+          7,
+          0,
+          9,
+          16,
+          19,
+          0,
+          15,
+          5,
+          19,
+          8,
+          4
+        ],
+        "dailyUsage": {
+          "Sat May 17 2025": 10,
+          "Sun May 18 2025": 57,
+          "Mon May 19 2025": 43,
+          "Tue May 20 2025": 21,
+          "Wed May 21 2025": 43,
+          "Thu May 22 2025": 59,
+          "Fri May 23 2025": 32
+        },
+        "recentUsage": []
+      },
+      "warn": {
+        "commandName": "warn",
+        "totalUsage": 375,
+        "uniqueUsers": [
+          "user1",
+          "user2",
+          "user3",
+          "user4",
+          "user5",
+          "user6",
+          "user7",
+          "user8",
+          "user9",
+          "user10"
+        ],
+        "hourlyUsage": [
+          12,
+          12,
+          6,
+          11,
+          10,
+          14,
+          2,
+          11,
+          7,
+          16,
+          3,
+          5,
+          19,
+          11,
+          2,
+          15,
+          15,
+          4,
+          9,
+          11,
+          14,
+          5,
+          7,
+          2
+        ],
+        "dailyUsage": {
+          "Sat May 17 2025": 13,
+          "Sun May 18 2025": 15,
+          "Mon May 19 2025": 56,
+          "Tue May 20 2025": 38,
+          "Wed May 21 2025": 28,
+          "Thu May 22 2025": 36,
+          "Fri May 23 2025": 29
+        },
+        "recentUsage": []
+      },
+      "mute": {
+        "commandName": "mute",
+        "totalUsage": 408,
+        "uniqueUsers": [
+          "user1",
+          "user2",
+          "user3",
+          "user4",
+          "user5",
+          "user6",
+          "user7",
+          "user8",
+          "user9",
+          "user10",
+          "user11",
+          "user12",
+          "user13",
+          "user14",
+          "user15",
+          "user16",
+          "user17"
+        ],
+        "hourlyUsage": [
+          14,
+          12,
+          10,
+          19,
+          6,
+          5,
+          0,
+          12,
+          1,
+          6,
+          4,
+          8,
+          13,
+          6,
+          6,
+          0,
+          12,
+          14,
+          9,
+          4,
+          3,
+          0,
+          11,
+          5
+        ],
+        "dailyUsage": {
+          "Sat May 17 2025": 20,
+          "Sun May 18 2025": 28,
+          "Mon May 19 2025": 21,
+          "Tue May 20 2025": 57,
+          "Wed May 21 2025": 42,
+          "Thu May 22 2025": 52,
+          "Fri May 23 2025": 21
+        },
+        "recentUsage": []
+      }
+    },
+    "voiceActivity": [
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user11",
+        "timestamp": "2025-05-22T19:51:31.300Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user7",
+        "timestamp": "2025-05-22T20:21:11.300Z",
+        "duration": 1780
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user17",
+        "timestamp": "2025-05-23T07:41:16.674Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user5",
+        "timestamp": "2025-05-23T07:53:32.674Z",
+        "duration": 736
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user12",
+        "timestamp": "2025-05-23T16:06:38.774Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user23",
+        "timestamp": "2025-05-23T16:54:35.774Z",
+        "duration": 2877
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user23",
+        "timestamp": "2025-05-23T11:06:06.068Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user20",
+        "timestamp": "2025-05-23T11:40:09.068Z",
+        "duration": 2043
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user11",
+        "timestamp": "2025-05-22T22:44:10.573Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user24",
+        "timestamp": "2025-05-22T22:53:36.573Z",
+        "duration": 566
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user12",
+        "timestamp": "2025-05-22T18:11:58.841Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user20",
+        "timestamp": "2025-05-22T18:58:50.841Z",
+        "duration": 2812
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user14",
+        "timestamp": "2025-05-23T15:22:20.002Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user6",
+        "timestamp": "2025-05-23T15:29:51.002Z",
+        "duration": 451
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user16",
+        "timestamp": "2025-05-23T11:36:36.354Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user10",
+        "timestamp": "2025-05-23T11:58:47.354Z",
+        "duration": 1331
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user11",
+        "timestamp": "2025-05-22T16:23:34.048Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user7",
+        "timestamp": "2025-05-22T17:23:05.048Z",
+        "duration": 3571
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user1",
+        "timestamp": "2025-05-23T13:49:15.715Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user14",
+        "timestamp": "2025-05-23T14:44:59.715Z",
+        "duration": 3344
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user4",
+        "timestamp": "2025-05-23T10:57:29.642Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user14",
+        "timestamp": "2025-05-23T11:18:03.642Z",
+        "duration": 1234
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user14",
+        "timestamp": "2025-05-23T12:07:23.281Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user14",
+        "timestamp": "2025-05-23T12:21:38.281Z",
+        "duration": 855
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user10",
+        "timestamp": "2025-05-23T09:57:41.412Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user1",
+        "timestamp": "2025-05-23T10:33:17.412Z",
+        "duration": 2136
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user16",
+        "timestamp": "2025-05-22T18:39:03.832Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user9",
+        "timestamp": "2025-05-22T19:15:29.832Z",
+        "duration": 2186
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user19",
+        "timestamp": "2025-05-23T15:27:18.177Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user19",
+        "timestamp": "2025-05-23T15:41:55.177Z",
+        "duration": 877
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user20",
+        "timestamp": "2025-05-22T21:39:49.467Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user8",
+        "timestamp": "2025-05-22T21:57:53.467Z",
+        "duration": 1084
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user17",
+        "timestamp": "2025-05-23T08:36:42.500Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user20",
+        "timestamp": "2025-05-23T09:25:02.500Z",
+        "duration": 2900
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user7",
+        "timestamp": "2025-05-23T10:39:39.560Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user17",
+        "timestamp": "2025-05-23T11:35:29.560Z",
+        "duration": 3350
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user10",
+        "timestamp": "2025-05-22T18:31:07.229Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user10",
+        "timestamp": "2025-05-22T19:28:45.229Z",
+        "duration": 3458
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user24",
+        "timestamp": "2025-05-22T17:41:18.334Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "channelId": "voice_channel_1",
+        "userId": "user12",
+        "timestamp": "2025-05-22T17:47:51.334Z",
+        "duration": 393
+      }
+    ],
+    "joinLeaveEvents": [
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "userId": "user23",
+        "timestamp": "2025-05-22T15:11:05.450Z"
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "userId": "user48",
+        "timestamp": "2025-05-21T11:34:14.114Z"
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "userId": "user27",
+        "timestamp": "2025-05-19T09:16:46.762Z"
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "userId": "user25",
+        "timestamp": "2025-05-21T04:03:28.292Z"
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "userId": "user27",
+        "timestamp": "2025-05-20T13:39:21.789Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "userId": "user35",
+        "timestamp": "2025-05-16T23:58:20.605Z"
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "userId": "user26",
+        "timestamp": "2025-05-21T14:39:18.871Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "userId": "user25",
+        "timestamp": "2025-05-21T11:18:59.570Z"
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "userId": "user43",
+        "timestamp": "2025-05-22T12:45:10.033Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "userId": "user21",
+        "timestamp": "2025-05-18T13:57:03.654Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "userId": "user19",
+        "timestamp": "2025-05-22T23:25:18.940Z"
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "userId": "user50",
+        "timestamp": "2025-05-22T19:45:12.349Z"
+      },
+      {
+        "type": "join",
+        "guildId": "1160603423385866381",
+        "userId": "user7",
+        "timestamp": "2025-05-16T21:29:36.790Z"
+      },
+      {
+        "type": "leave",
+        "guildId": "1160603423385866381",
+        "userId": "user24",
+        "timestamp": "2025-05-18T20:51:08.588Z"
+      }
+    ],
+    "dailyStats": {
+      "Sat May 17 2025": {
+        "date": "Sat May 17 2025",
+        "totalMessages": 155,
+        "activeUsers": 17,
+        "commandsUsed": 45,
+        "voiceMinutes": 285,
+        "topChannels": [
+          {
+            "channelId": "1245459380745539585",
+            "messages": 139
+          },
+          {
+            "channelId": "channel2",
+            "messages": 21
+          }
+        ],
+        "topCommands": [
+          {
+            "commandName": "ping",
+            "usage": 26
+          },
+          {
+            "commandName": "help",
+            "usage": 11
+          }
+        ]
+      },
+      "Sun May 18 2025": {
+        "date": "Sun May 18 2025",
+        "totalMessages": 158,
+        "activeUsers": 39,
+        "commandsUsed": 28,
+        "voiceMinutes": 420,
+        "topChannels": [
+          {
+            "channelId": "1245459380745539585",
+            "messages": 99
+          },
+          {
+            "channelId": "channel2",
+            "messages": 28
+          }
+        ],
+        "topCommands": [
+          {
+            "commandName": "ping",
+            "usage": 27
+          },
+          {
+            "commandName": "help",
+            "usage": 17
+          }
+        ]
+      },
+      "Mon May 19 2025": {
+        "date": "Mon May 19 2025",
+        "totalMessages": 224,
+        "activeUsers": 30,
+        "commandsUsed": 40,
+        "voiceMinutes": 406,
+        "topChannels": [
+          {
+            "channelId": "1245459380745539585",
+            "messages": 73
+          },
+          {
+            "channelId": "channel2",
+            "messages": 60
+          }
+        ],
+        "topCommands": [
+          {
+            "commandName": "ping",
+            "usage": 18
+          },
+          {
+            "commandName": "help",
+            "usage": 16
+          }
+        ]
+      },
+      "Tue May 20 2025": {
+        "date": "Tue May 20 2025",
+        "totalMessages": 188,
+        "activeUsers": 29,
+        "commandsUsed": 45,
+        "voiceMinutes": 460,
+        "topChannels": [
+          {
+            "channelId": "1245459380745539585",
+            "messages": 142
+          },
+          {
+            "channelId": "channel2",
+            "messages": 56
+          }
+        ],
+        "topCommands": [
+          {
+            "commandName": "ping",
+            "usage": 26
+          },
+          {
+            "commandName": "help",
+            "usage": 18
+          }
+        ]
+      },
+      "Wed May 21 2025": {
+        "date": "Wed May 21 2025",
+        "totalMessages": 251,
+        "activeUsers": 11,
+        "commandsUsed": 23,
+        "voiceMinutes": 435,
+        "topChannels": [
+          {
+            "channelId": "1245459380745539585",
+            "messages": 68
+          },
+          {
+            "channelId": "channel2",
+            "messages": 56
+          }
+        ],
+        "topCommands": [
+          {
+            "commandName": "ping",
+            "usage": 17
+          },
+          {
+            "commandName": "help",
+            "usage": 9
+          }
+        ]
+      },
+      "Thu May 22 2025": {
+        "date": "Thu May 22 2025",
+        "totalMessages": 268,
+        "activeUsers": 13,
+        "commandsUsed": 31,
+        "voiceMinutes": 226,
+        "topChannels": [
+          {
+            "channelId": "1245459380745539585",
+            "messages": 139
+          },
+          {
+            "channelId": "channel2",
+            "messages": 23
+          }
+        ],
+        "topCommands": [
+          {
+            "commandName": "ping",
+            "usage": 12
+          },
+          {
+            "commandName": "help",
+            "usage": 19
+          }
+        ]
+      },
+      "Fri May 23 2025": {
+        "date": "Fri May 23 2025",
+        "totalMessages": 235,
+        "activeUsers": 25,
+        "commandsUsed": 38,
+        "voiceMinutes": 545,
+        "topChannels": [
+          {
+            "channelId": "1245459380745539585",
+            "messages": 145
+          },
+          {
+            "channelId": "channel2",
+            "messages": 30
+          }
+        ],
+        "topCommands": [
+          {
+            "commandName": "ping",
+            "usage": 18
+          },
+          {
+            "commandName": "help",
+            "usage": 12
+          }
+        ]
+      }
+    },
+    "weeklyStats": {},
+    "monthlyStats": {}
+  },
+  "realTimeData": {
+    "activeUsers": [
+      "user1",
+      "user2",
+      "user3",
+      "user4",
+      "user5",
+      "user6",
+      "user7",
+      "user8",
+      "user9",
+      "user10"
+    ],
+    "currentVoiceUsers": [
+      "user1",
+      "user2",
+      "user3"
+    ],
+    "messagesLastHour": 52,
+    "commandsLastHour": 6
+  },
+  "lastSaved": "2025-05-23T16:13:29.646Z"
+}

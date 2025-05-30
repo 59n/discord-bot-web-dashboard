@@ -1,0 +1,17 @@
+{
+  "totalCommandsUsed": 15,
+  "builtinUsage": {
+    "ping": 1,
+    "warn": 2,
+    "help": 2,
+    "warnings": 1,
+    "roll": 2
+  },
+  "customUsage": {
+    "123": 1
+  },
+  "slashUsage": {
+    "slash": 2,
+    "testing": 1
+  }
+}
